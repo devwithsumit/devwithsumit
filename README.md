@@ -79,3 +79,7 @@
 </div>
 
 ###
+<h2></h2>
+<img src="https://raw.githubusercontent.com/devwithsumit/devwithsumit/output/snake.svg" alt="Snake animation" />
+
+###
