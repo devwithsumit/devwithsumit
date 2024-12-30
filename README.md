@@ -76,9 +76,12 @@
 
 <br><br>
 
-<div align="center" style="display: flex; align-items: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devwithsumit&show_icons=true&locale=en" alt="devwithsumit" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devwithsumit&" alt="devwithsumit" />
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devwithsumit&" alt="devwithsumit" />
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devwithsumit&show_icons=true&locale=en" alt="devwithsumit" />
 </div>
 
 
