@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I'm a 3rd-year Computer Science student at Sage University, skilled in developing dynamic web applications using the MERN stack. Currently, I'm expanding my expertise in Java and Data Structures & Algorithms to strengthen my problem-solving abilities. Passionate about building scalable solutions, I'm always eager to learn and collaborate on exciting tech projects!</p>
+<p align="center">I'm a 4th-year Computer Science student at Sage University, skilled in developing dynamic web applications using the MERN stack. Currently, I'm expanding my expertise in Java and Data Structures & Algorithms to strengthen my problem-solving abilities. Passionate about building scalable solutions, I'm always eager to learn and collaborate on exciting tech projects!</p>
 
 ###
 
