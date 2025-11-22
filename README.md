@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I'm a 4th-year Computer Science student at Sage University, skilled in developing dynamic web applications using the MERN stack. Currently, I'm expanding my expertise in Java and Data Structures & Algorithms to strengthen my problem-solving abilities. Passionate about building scalable solutions, I'm always eager to learn and collaborate on exciting tech projects!</p>
+<p align="center">I'm a 4th-year Computer Science student at Sage University, skilled in developing dynamic, scalable, optimial Applications and DSA with good problem-solving ability. Currently, I'm expanding my expertise in Java Development. Passionate about building scalable solutions, I'm always eager to learn and collaborate on exciting tech projects!</p>
 
 ###
 
@@ -30,13 +30,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
